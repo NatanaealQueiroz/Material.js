@@ -1,0 +1,17 @@
+console.log('Exepmlo 01)','1' == 1)
+console.log('Exepmlo 02)','1' === 1)
+console.log('Exepmlo 03)', '3'  !=3)
+console.log('Exepmlo 04)', '3' !==3)
+
+console.log('Exepmlo 05)', 3 < 2)
+console.log('Exepmlo 06)', 3 > 2)
+console.log('Exepmlo 07)', 3 <= 2)
+console.log('Exepmlo 08)', 3 >= 2)
+
+const d1 = new Date(0)
+const d2 = new Date(0)
+console.log('Exepmlo 09)', d1 === d2)
+console.log('Exepmlo 10)', d1 == d2)
+console.log('Exepmlo 11)', d1.getTime === d2.getTime)
+console.log('Exepmlo 12)', undefined == null)
+console.log('Exepmlo 13)', undefined === null)
